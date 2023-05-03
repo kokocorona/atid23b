@@ -1,6 +1,7 @@
 const express = require("express");
 const path = require("path");
 const http = require("http");
+// chages
 // מודול שיודע לפתור את בעיית האבטחת של הקורס
 // שלא ניתן בברירת מחדל לשלוח מדומיין א' בקשה לדומיין ב
 const cors = require("cors");
