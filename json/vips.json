@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "641ab56921a4e0ee0c4df1bd"
+  },
+  "name": "Rashi",
+  "info": "Smart man Rashi",
+  "date_created": {
+    "$date": "2023-03-22T07:59:37.750Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ab59021a4e0ee0c4df1bf"
+  },
+  "name": "Hazal",
+  "info": "Smart men of the jewish pepole",
+  "date_created": {
+    "$date": "2023-03-22T08:00:16.354Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ab5d721a4e0ee0c4df1c1"
+  },
+  "name": "Tosfot",
+  "info": "Addon to the bible by smart men",
+  "date_created": {
+    "$date": "2023-03-22T08:01:27.436Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641ac7c821a4e0ee0c4df1d3"
+  },
+  "name": "moshe",
+  "info": "Write the all torha via God",
+  "date_created": {
+    "$date": "2023-03-22T09:18:00.816Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "63ac3368adf642171b2f21dc"
+  },
+  "title": "Bereshit",
+  "info": "G‑d creates the world in six days. On the first day He makes darkness and light. On the second day He forms the heavens, dividing the “upper waters” from the “lower waters.” On the third day He sets the boundaries of land and sea, and calls forth trees and greenery from the earth. On the fourth day He fixes the position of the sun, moon and stars as timekeepers and illuminators of the earth. Fish, birds and reptiles are created on the fifth day; land animals, and then the human being, on the sixth. G‑d ceases work on the seventh day, and sanctifies it as a day of rest. <br> G‑d forms the human body from the dust of the earth, and blows into his nostrils a 'living soul.” Originally Man is a single person, but deciding that “it is not good that man be alone,' G‑d takes a 'side' from the man, forms it into a woman, and marries them to each other.",
+  "cat_url": "genesis",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": "2022-12-28T12:15:36.037Z"
+  },
+  "user_id": "63abf46f1a831aebb76b9eb5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac3bbeadf642171b2f21e0"
+  },
+  "title": "Vayigash",
+  "info": "Judah approaches Joseph to plead for the release of Benjamin, offering himself as a slave to the Egyptian ruler in Benjamin’s stead. Upon witnessing his brothers’ loyalty to one another, Joseph reveals his identity to them.'I am Joseph,' he declares. 'Is my father still alive?' The brothers are overcome by shame and remorse, but Joseph comforts them. “It was not you who sent me here,” he says to them, 'but G‑d. It has all been ordained from Above to save us, and the entire region, from famine.'The brothers rush back to Canaan with the news. Jacob comes to Egypt with his sons and their families—seventy souls in all—and is reunited with his beloved son after 22 years. On his way to Egypt he receives the divine promise: “Fear not to go down to Egypt; for I will there make of you a great nation. I will go down with you into Egypt, and I will also surely bring you up again.",
+  "cat_url": "genesis",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": "2022-12-28T12:51:10.108Z"
+  },
+  "user_id": "63abf46f1a831aebb76b9eb5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ac3c08adf642171b2f21e2"
+  },
+  "title": "Shemot",
+  "info": "The children of Israel multiply in Egypt. Threatened by their growing numbers, Pharaoh enslaves them and orders the Hebrew midwives, Shifrah and Puah, to kill all male babies at birth. When they do not comply, he commands his people to cast the Hebrew babies into the Nile. A child is born to Yocheved, the daughter of Levi, and her husband, Amram, and placed in a basket on the river, while the baby’s sister, Miriam, stands watch from afar. Pharaoh’s daughter discovers the boy, raises him as her son, and names him Moses.",
+  "cat_url": "exodus",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": "2022-12-28T12:52:24.059Z"
+  },
+  "user_id": "63abf46f1a831aebb76b9eb5",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64119079e732bd4c5460b617"
+  },
+  "title": "Vayikra",
+  "info": "G‑d calls to Moses from the Tent of Meeting, and communicates to him the laws of the korbanot, the animal and meal offerings brought in the Sanctuary. ",
+  "cat_url": "leviticus",
+  "img_url": "https://images.pexels.com/photos/208397/pexels-photo-208397.jpeg?auto=compress&cs=tinysrgb&w=1600",
+  "active": true,
+  "date_created": {
+    "$date": "2023-03-15T09:31:37.800Z"
+  },
+  "user_id": "64118b49e732bd4c5460b60d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6424149b6582d68f83529f4d"
+  },
+  "title": "tzav",
+  "info": "section of tzav of the protests",
+  "cat_url": "leviticus",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": "2023-03-29T10:36:11.210Z"
+  },
+  "user_id": "63b2a02cee44ada32ecbe89e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642414d96582d68f83529f51"
+  },
+  "title": "Shemini",
+  "info": "On the eighth day, following the seven days of their inauguration, Aaron and his sons begin to officiate as kohanim (priests); a fire issues forth from G‑d to consume the offerings on the altar, and the divine presence comes to dwell in the Sanctuary.",
+  "cat_url": "leviticus",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": "2023-03-29T10:37:13.600Z"
+  },
+  "user_id": "63b2a02cee44ada32ecbe89e",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642415276582d68f83529f55"
+  },
+  "title": "Tazria",
+  "info": "The name of the Parshah, “Tazria,” means “conceives” and it is found in Leviticus 12:2.\n\nThe Parshah of Tazria continues the discussion of the laws of tumah v’taharah, ritual impurity and purity.\n\nA woman giving birth should undergo a process of purification, which includes immersing in a mikvah (a naturally gathered pool of water) and bringing offerings to the Holy Temple. All male infants are to be circumcised on the eighth day ",
+  "cat_url": "leviticus",
+  "img_url": "",
+  "active": true,
+  "date_created": {
+    "$date": "2023-03-29T10:38:31.859Z"
+  },
+  "user_id": "63b2a02cee44ada32ecbe89e",
+  "__v": 0
+}]
